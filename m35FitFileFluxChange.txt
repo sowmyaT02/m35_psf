@@ -1,0 +1,3 @@
+hlsp_k2superstamp_k2_photometer_c0-m35-bjd2456788.8217_kepler_v1_image.fits
+hlsp_k2superstamp_k2_photometer_c0-m35-bjd2456788.8422_kepler_v1_image.fits
+hlsp_k2superstamp_k2_photometer_c0-m35-bjd2456788.8626_kepler_v1_image.fits
